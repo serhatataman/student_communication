@@ -1,0 +1,24 @@
+.sidebar {
+  position: fixed;
+  background-color: #eee;
+  margin-left: 0px;
+  width: 200px;
+  height: 1500px;
+  top: 50px;
+  
+}
+.sidebar a{
+    display: block;
+    color: black;
+    padding: 12px;
+	text-align: center;
+	width: 87%;
+    text-decoration: none;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.sidebar a:hover {
+	
+    background-color: #ccc;
+}
