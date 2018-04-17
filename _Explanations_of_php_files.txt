@@ -1,0 +1,11 @@
+-$ add_general_announcement.php -> The instructor can insert general announcements and news to the database...
+-$ channel_info.php -> it is the common HTML page that every channel will use. Because channels are dynamical.
+-$ create_channel.php -> The instructor can create new channels. These channels will be related with the instructor who created the channel...
+-$ fetch_channel_announcement.php -> When a user clicks on the specific channel, the channel announcements and files will be shown in the middle area.
+-$ fetch_channel_id_for_sidebar.php -> it fetches the ids for sidebar. (for both instructor and student).
+-$ fetch_general_announcement.php -> it fetches the general announcements for main pages (intructor, student, non-logged in user).
+-$ instructor.php -> instructor main page.
+-$ login.php -> login page.
+-$ main_menu.php -> main menu page.
+-$ signup.php -> sign up page.
+-$ student.php -> student main page.
